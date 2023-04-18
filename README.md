@@ -10,3 +10,9 @@
 - Java
 - Spring boot
 - MongoDB
+
+## To run the project
+
+Run in termial
+`chmod +x run-app.sh`
+`./run-app.sh`
