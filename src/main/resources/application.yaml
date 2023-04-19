@@ -1,5 +1,0 @@
-spring:
-  data:
-    mongodb:
-       uri: mongodb+srv://alexandreosouza12:IAA4xeVldXgLHX7u@cluster0.n8d9ybw.mongodb.net/?retryWrites=true&w=majority
-       database: vote-challenge
